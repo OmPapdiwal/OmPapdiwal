@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on [TenancyPassport](tenancypassport.com)
 - 🌍 Active on GitHub with **public open-source contributions**
 - ⚡ Fun fact: I enjoy building backend systems as much as designing clean UIs!
-- 
-
 - 📫 How to reach me **papdiwalom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
