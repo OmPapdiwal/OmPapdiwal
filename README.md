@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Om Nilesh Papdiwal</h1>
-<h3 align="center">Spring Boot & Java Developer | Building Robust Backend Systems</h3>
+<h3 align="center">Full-Stack Developer | Java, Spring Boot, MERN Stack | Passionate about Open Source </h3>
+
 
 - 🔭 I’m currently working on [TenancyPassport](tenancypassport.com)
+- 🌍 Active on GitHub with **public open-source contributions**
+- ⚡ Fun fact: I enjoy building backend systems as much as designing clean UIs!
+- 
 
 - 📫 How to reach me **papdiwalom@gmail.com**
 
